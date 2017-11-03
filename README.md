@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3rd, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Rodberg
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to make a slideshow type of page with pictures.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jrr15f.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assingment, I use the getElementById() method which helped to access a specific object.
+2. In this assingment, I created a node  by using the createElement() method.
+3. In this assingment, I duplicated a node using the cloneNode() method.
